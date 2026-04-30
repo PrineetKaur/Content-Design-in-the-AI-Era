@@ -4,6 +4,8 @@ A collection of real-world Content Design projects focused on building scalable 
 
 This repository reflects how content design operates in modern product teams: not just writing interface copy, but creating systems that enable consistency, speed, and quality at scale.
 
+![Project Preview Image](preview.png)
+
 ---
 ## Repository Structure
 
